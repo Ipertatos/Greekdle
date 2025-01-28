@@ -1,2 +1,2 @@
 # Greekdle
-A simple Worlde Clone in greek
+Wordlist Archive for Greekdle.gr
